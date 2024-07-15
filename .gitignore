@@ -53,3 +53,5 @@ yarn-error.log*
 /volumes/
 schema.prismae
 *.sql
+temp_auto_push.bat
+temp_interactive_push.bat
